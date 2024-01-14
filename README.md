@@ -2,7 +2,7 @@
 
 1. Musiqi platforması
 2. Film platforması
-3. Axtarılan məhsullun müqayisəsi üçün platforma
+3. Məlumat və sözlük platforması
 
 ### Musiqi platforması
 - Apple Music
@@ -204,3 +204,38 @@ Netflix tətbiqinin yaradılmasında istifadə edilən strukturlar yüksək məz
 **6. Platformalar Arası İnkişaf:** Netflix iOS, Android, veb brauzerlər, smart televizorlar, oyun konsolları və s. daxil olmaqla, geniş platformaları dəstəkləyir. Çarpaz platforma inkişafı müxtəlif cihazlarda ardıcıl təcrübə təmin edir.
 
 Netflix-in texnoloji yığınının xüsusiyyətləri və onun yaradılmasında istifadə olunan əsas strukturlar mülkiyyətə məxsusdur və ictimaiyyətə ətraflı şəkildə açıqlanmır. Şirkətlər adətən rəqabətli səbəblərə görə bu cür məlumatları məxfi saxlayırlar.
+
+### Məlumat və sözlük platforması
+- EkşiSözlük
+
+## EkşiSözlük
+
+<picture>
+  <img alt="Ekshisozluk Template" src="https://repository-images.githubusercontent.com/218296590/88403c80-ca5a-11ea-8d7c-af0e9e3cc045">
+</picture>
+
+Ekşisözlük, müxtəlif mövzularda məlumatların paylaşılması və müzakirəsi üçün izdiham mənbəyi olan, icma tərəfindən idarə olunan platforma kimi fəaliyyət göstərən türk onlayn ortaq istinad işidir. Ekşisözlüyün bəzi əsas cəhətləri bunlardır:
+
+- **Onlayn Ensiklopediya və Müzakirə Platforması:** İngilis dilindən "sour dictionary" kimi tərcümə olunan Ekşisözlük, istifadəçilərin geniş mövzulardakı girişləri töhfə verdiyi və müzakirə etdiyi bir Türk onlayn ensiklopediyası olaraq başladı. Yazılara təriflər, izahatlar, şəxsi təcrübələr, rəylər və s. daxil ola bilər.
+
+- **İcma Əsaslı Məzmun:** Ekşisözlükdəki məzmun əsasən onun istifadəçi icması tərəfindən yaradılır və idarə olunur. İstifadəçilər yeni girişlər əlavə etməklə, mövcud olanları redaktə etməklə və müzakirələrdə iştirak etməklə töhfə verə bilərlər. Bu əməkdaşlıq yanaşması müxtəlif mövzularda müxtəlif perspektivlər toplusuna imkan verir.
+
+- **Qeyri-rəsmi və Açıq Format:** Ekşisözlük haqqında yazılar çox vaxt qeyri-rəsmi və danışıq üslubunda yazılır. Bu qeyri-rəsmi yanaşma onu ənənəvi ensiklopediyalardan fərqləndirir və fikir və təcrübəni daha rahat və subyektiv ifadə etməyə imkan verir.
+
+- **Yerli İstifadə:** Ekşisözlük əsasən türkdilli icma daxilində istifadə olunur. O, yerli auditoriyaya xidmət edir və populyar mədəniyyət, texnologiya, gündəlik həyat və s. daxil olmaqla, lakin bununla məhdudlaşmayaraq geniş mövzuları əhatə edir. Məzmun çox vaxt türk dili və mədəniyyətinə xasdır.
+
+- **İnternet Mədəniyyəti və Trendləri:** Ekşisözlük internet mədəniyyətini və tendensiyalarını əks etdirir və onu Türkiyənin onlayn icmasının perspektivlərini və fikirlərini anlamaq üçün dəyərli mənbəyə çevirir. Yazılar tez-tez cari hadisələrə, memlərə və internetdə baş verən məşhur müzakirələrə toxunur.
+
+Ekşisözlük yaratmaqda istifadə olunan strukturlara gəldikdə, o, veb-əsaslı platforma üzərində qurulub və aşağıdakı komponentləri ehtiva edir:
+
+**1. Veb Tətbiq:** Ekşisözlük veb brauzerlər vasitəsilə əldə edilə bilən veb əsaslı platforma kimi fəaliyyət göstərir. İstifadəçilər vebsayt vasitəsilə daxil ola, onlara töhfə verə və qeydləri müzakirə edə bilərlər.
+
+**2. İstifadəçi Hesabları və Doğrulama:** Platforma, ehtimal ki, fərdlərin profillərini yaratmaq və idarə etmək üçün istifadəçi hesabı sistemini ehtiva edir. İstifadəçi hesablarının təhlükəsizliyini təmin etmək üçün autentifikasiya mexanizmlərindən istifadə edilir.
+
+**3. Verilənlər bazası:** Ekşisözlük girişləri, istifadəçi məlumatlarını və digər müvafiq məlumatları saxlamaq və əldə etmək üçün verilənlər bazasına əsaslanır. Verilənlər bazası strukturu istifadəçilərin töhfə verdiyi böyük miqdarda məzmunu səmərəli şəkildə idarə etmək üçün çox vacibdir.
+
+**4. İcma Moderasiyası:** Keyfiyyəti qorumaq və icma qaydalarına riayət etmək üçün Ekşisözlük icma moderasiyasından istifadə edir. İstifadəçilər uyğun olmayan məzmun barədə məlumat verə bilər və moderatorlar platformanın bütövlüyünün təmin edilməsində rol oynayırlar.
+
+**5. Axtarış və İndeksləmə:** Güclü axtarış sistemi istifadəçilərin müvafiq girişləri tapması üçün vacibdir. Çox güman ki, platforma dəqiq və səmərəli axtarış nəticələrini təmin etmək üçün indeksləşdirmə və axtarış alqoritmlərini özündə birləşdirir.
+
+Qeyd etmək vacibdir ki, Ekşisözlük-ün texnologiya yığınının və əsas strukturlarının xüsusiyyətləri ictimaiyyətə ətraflı şəkildə açıqlanmır. Burada təqdim olunan məlumat icma tərəfindən idarə olunan onlayn platformalarda müşahidə edilən ümumi xüsusiyyətlərə və funksiyalara əsaslanır.
