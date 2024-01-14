@@ -207,6 +207,7 @@ Netflix-in texnoloji yığınının xüsusiyyətləri və onun yaradılmasında 
 
 ### Məlumat və sözlük platforması
 - EkşiSözlük
+- Merriam-Webster
 
 ## EkşiSözlük
 
@@ -239,3 +240,37 @@ Ekşisözlük yaratmaqda istifadə olunan strukturlara gəldikdə, o, veb-əsasl
 **5. Axtarış və İndeksləmə:** Güclü axtarış sistemi istifadəçilərin müvafiq girişləri tapması üçün vacibdir. Çox güman ki, platforma dəqiq və səmərəli axtarış nəticələrini təmin etmək üçün indeksləşdirmə və axtarış alqoritmlərini özündə birləşdirir.
 
 Qeyd etmək vacibdir ki, Ekşisözlük-ün texnologiya yığınının və əsas strukturlarının xüsusiyyətləri ictimaiyyətə ətraflı şəkildə açıqlanmır. Burada təqdim olunan məlumat icma tərəfindən idarə olunan onlayn platformalarda müşahidə edilən ümumi xüsusiyyətlərə və funksiyalara əsaslanır.
+
+## Merriam-Webster
+
+<picture>
+  <img alt="Merriam-Webster Template" src="https://images.squarespace-cdn.com/content/v1/5264715be4b0c197f243db01/1535328023746-Z82UKLM6PKZXNNEPA8QK/mw_wordsatplay2.jpg">
+</picture>
+
+Merriam-Webster lüğətlər və tezauruslar da daxil olmaqla, istinad kitablarının tanınmış Amerika nəşriyyatçısıdır. Merriam-Webster veb-saytı dillə bağlı müxtəlif resurslara çıxışı təmin edən onlayn platforma kimi xidmət edir. Burada bəzi əsas cəhətlər var:
+
+- **Onlayn Lüğət və Tezaurus:** Merriam-Webster veb-saytının əsas məqsədi onlayn lüğət və tezaurus kimi xidmət etməkdir. İstifadəçilər sözlərin mənalarını axtara, tələffüzləri yoxlaya, etimologiyaları araşdıra, sinonim və antonimləri tapa bilər.
+
+- **Dil Referans Materialları:** Əsas lüğət və tezaurus funksiyalarına əlavə olaraq, Merriam-Webster veb-saytı qrammatik məsləhətlər, dil testləri və söz oyunları daxil olmaqla, dillə əlaqəli müxtəlif resursları təmin edir.
+
+- **Təhsil məzmunu:** Veb sayt dil öyrənənlər, tələbələr və pedaqoqlar üçün təhsil məzmunu təklif edir. Bura Günün Sözü, lüğət testləri və dillə bağlı məqalələr kimi funksiyalar daxildir.
+
+- **Trend sözlər və istifadə anlayışları:** Merriam-Webster tez-tez öz veb-saytlarında axtarışlar və istifadəçi davranışı əsasında trend sözlər, yeni sözlər və dil istifadəsi anlayışlarını vurğulayır.
+
+- **Qlobal İstifadə:** Merriam-Webster ABŞ-da yerləşsə də, onun onlayn platforması qlobal olaraq əlçatandır. Dünyanın hər yerindən ingilis dilini öyrənənlər və həvəskarlar vebsaytdan istinad və öyrənmə məqsədləri üçün istifadə edə bilərlər.
+
+Merriam-Webster veb-saytının yaradılmasında istifadə olunan strukturlar ümumiyyətlə aşağıdakı komponentləri əhatə edir:
+
+**1. Veb Tətbiq:** Veb sayt standart veb brauzerlər vasitəsilə əldə edilə bilən veb əsaslı proqram kimi fəaliyyət göstərir. Dillə əlaqəli məzmunu axtarmaq və araşdırmaq üçün istifadəçi dostu interfeysi təmin edir.
+
+**2. Verilənlər bazası:** Güclü verilənlər bazası söz tərifləri, tələffüzlər, etimologiyalar və istifadə nümunələri daxil olmaqla böyük həcmdə leksik məlumatların saxlanması və əldə edilməsi üçün çox vacibdir.
+
+**3. Axtarış Funksionallığı:** Veb sayt istifadəçilərə məlumatı tez və səmərəli şəkildə tapmağa imkan verən mürəkkəb axtarış funksiyasını özündə birləşdirir. Bu, indeksləşdirmə, avtomatik tamamlama təklifləri və uyğunluq sıralamasını əhatə edə bilər.
+
+**4. API (Tətbiq Proqramlaşdırma İnterfeysləri):** Merriam-Webster tərtibatçılara öz lüğət və tezaurus məlumatlarını üçüncü tərəf proqramlarına inteqrasiya etməyə imkan verən API təmin edə bilər.
+
+**5. İstifadəçi Hesabları:** Həmişə tələb olunmasa da, vebsaytdakı bəzi dil öyrənmə funksiyaları istifadəçi hesablarını əhatə edə bilər ki, bu da istifadəçilərə viktorinalarda irəliləyişlərini izləməyə, sevimli sözləri yadda saxlamağa və ya öyrənmə təcrübəsini fərdiləşdirməyə imkan verir.
+
+**6. Responsiv dizayn:** Müxtəlif cihazlardan sayta daxil olan istifadəçilərə xidmət göstərmək üçün veb-sayt çox güman ki, masaüstü kompüterlər, planşetlər və smartfonlar arasında ardıcıl və istifadəçi dostu təcrübə təmin etmək üçün həssas dizayn prinsiplərindən istifadə edir.
+
+Merriam-Webster veb-saytının yaradılmasında istifadə olunan texnoloji yığının və əsas strukturların xüsusiyyətləri mülkiyyətdir və ictimaiyyətə ətraflı şəkildə açıqlanmır. Şirkətlər çox vaxt rəqabətli səbəblərə görə bu cür məlumatları məxfi saxlayırlar. Ən son və ən dəqiq təfərrüatlar üçün rəsmi Merriam-Webster veb-saytını yoxlamaq və ya təşkilatla birbaşa əlaqə saxlamaq tövsiyə olunur.
