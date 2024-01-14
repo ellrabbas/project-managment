@@ -100,3 +100,41 @@ Deezer-in yaradılmasında istifadə olunan strukturlar, ehtimal ki, müştəri-
 **5. Platformalar Arası İnkişaf:** Deezer iOS, Android, Windows, macOS və veb brauzerlər də daxil olmaqla müxtəlif platformaları dəstəkləyir. Bu, çox güman ki, hər platformaya uyğunlaşdırılmış müxtəlif proqramlaşdırma dillərindən və çərçivələrdən istifadəni nəzərdə tutur.
 
 Deezer-in texnoloji yığınının spesifik təfərrüatları və onun yaradılmasında istifadə edilən əsas strukturlar mülkiyyətə məxsusdur və ictimaiyyətə ətraflı şəkildə açıqlanmır. Şirkətlər adətən rəqabətli səbəblərə görə bu cür məlumatları məxfi saxlayırlar.
+
+
+### Film platforması
+- MUBI
+- IMDb
+- Netflix
+
+## MUBI
+
+<picture>
+  <img alt="Apple Music Template" src="https://cdn.dribbble.com/users/5830047/screenshots/15753480/media/24c5e08f1b766708b3d270dc9dbec64d.png">
+</picture>
+
+Mubi, seçilmiş filmləri seçərək bir çox əsas platformalardan fərqlənən film axını xidmətidir. Mubi film tətbiqinin əsas məqsədi istifadəçilərə müxtəlif janrlardan və ölkələrdən müxtəlif və diqqətlə seçilmiş film seçimi təklif edərək, seçilmiş filmlər kitabxanasına çıxışı təmin etməkdir. Ənənəvi axın xidmətlərindən fərqli olaraq, Mubi-də hər gün yeni bir film əlavə olunan və köhnə başlıqlar fırlanan kataloqu var.
+
+Mubi film tətbiqinin bəzi əsas cəhətləri bunlardır:
+
+**Kurasiya edilmiş seçim:** Mubi eyni vaxtda 30 filmdən ibarət seçilmiş seçim təqdim edən kurasiyalı yanaşması ilə tanınır. Hər bir film məhdud müddətə mövcuddur və istifadəçilərə unikal və daim dəyişən film izləmə təcrübəsi təqdim edir.
+
+**Qlobal Əlçatma:** Mubi Böyük Britaniyada yaransa da, əhatə dairəsini genişləndirdi və qlobal olaraq mövcuddur. Müxtəlif ölkələrdən olan istifadəçilər seçilmiş filmləri araşdırmaq və izləmək üçün platformaya daxil ola bilərlər.
+
+**Müstəqil və Beynəlxalq Filmlər:** Mubi tez-tez müstəqil və beynəlxalq filmləri təqdim edir ki, onlar əsas platformalarda o qədər də əlçatan olmaya bilər. Bu, istifadəçilərə kinonun müxtəlif çeşidlərini kəşf etmək və qiymətləndirmək imkanı verir.
+
+**Film Festivalları və Tərəfdaşlıqlar:** Mubi müxtəlif festivallarda rəğbət qazanmış filmləri nümayiş etdirərək film festivalları və distribyutorlarla əməkdaşlıq edir. Bu, platformanın unikal məzmun təkliflərini daha da artırır.
+
+Mubi film proqramının yaradılmasında istifadə edilən strukturlar, ehtimal ki, digər axın xidmətləri kimi müştəri-server arxitekturasını əhatə edir. Burada iştirak edə biləcək bəzi komponentlər və strukturlar var:
+
+**1. Backend Services:** Mubi-nin arxa hissəsinə film kataloqu, istifadəçi hesabları, abunə təfərrüatları və digər backend funksiyalarını idarə etmək üçün cavabdeh olan serverlər daxildir.
+
+**2. Məzmun Çatdırılması:** Axın xidmətləri güclü məzmun çatdırılması mexanizmlərini tələb edir. Mubi, çox güman ki, filmləri bütün dünyada istifadəçilərə səmərəli şəkildə çatdırmaq üçün Məzmun Çatdırılma Şəbəkələrindən (CDN) istifadə edir.
+
+**3. Verilənlər Bazasının İdarə Edilməsi:** Kurasiya olunmuş film kataloqunu, istifadəçi məlumatlarını və digər məlumatları təşkil etmək və idarə etmək üçün verilənlər bazaları, ehtimal ki, backend infrastrukturunun bir hissəsi kimi istifadə olunur.
+
+**4. Ödəniş emalı:** Mubi abunə modelində işlədiyi üçün istifadəçi abunəliklərini idarə etmək üçün təhlükəsiz ödəniş emal sistemlərini əhatə edir.
+
+**5. Platformalar Arası İnkişaf:** Mubi müxtəlif platformalarda, o cümlədən iOS, Android, veb brauzerlər və smart televizorlarda mövcuddur. Bu, müxtəlif proqramlaşdırma dillərindən və hər bir platformaya uyğunlaşdırılmış çərçivələrdən istifadə edərək platformalararası inkişafı nəzərdə tutur.
+
+Mubinin texnoloji yığınının xüsusiyyətləri və onun yaradılmasında istifadə edilən əsas strukturlar mülkiyyətə məxsusdur və ictimaiyyətə ətraflı şəkildə açıqlanmır. Şirkətlər adətən rəqabətli səbəblərə görə bu cür məlumatları məxfi saxlayırlar.
