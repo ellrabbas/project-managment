@@ -4,7 +4,7 @@
 2. Film platforması
 3. Məlumat və sözlük platforması
 
-### Musiqi platforması
+# Musiqi platforması
 - Apple Music
 - Spotify
 - Deezer
@@ -102,7 +102,7 @@ Deezer-in yaradılmasında istifadə olunan strukturlar, ehtimal ki, müştəri-
 Deezer-in texnoloji yığınının spesifik təfərrüatları və onun yaradılmasında istifadə edilən əsas strukturlar mülkiyyətə məxsusdur və ictimaiyyətə ətraflı şəkildə açıqlanmır. Şirkətlər adətən rəqabətli səbəblərə görə bu cür məlumatları məxfi saxlayırlar.
 
 
-### Film platforması
+# Film platforması
 - MUBI
 - IMDb
 - Netflix
@@ -205,9 +205,10 @@ Netflix tətbiqinin yaradılmasında istifadə edilən strukturlar yüksək məz
 
 Netflix-in texnoloji yığınının xüsusiyyətləri və onun yaradılmasında istifadə olunan əsas strukturlar mülkiyyətə məxsusdur və ictimaiyyətə ətraflı şəkildə açıqlanmır. Şirkətlər adətən rəqabətli səbəblərə görə bu cür məlumatları məxfi saxlayırlar.
 
-### Məlumat və sözlük platforması
+# Məlumat və sözlük platforması
 - EkşiSözlük
 - Merriam-Webster
+- Tureng
 
 ## EkşiSözlük
 
@@ -274,3 +275,33 @@ Merriam-Webster veb-saytının yaradılmasında istifadə olunan strukturlar üm
 **6. Responsiv dizayn:** Müxtəlif cihazlardan sayta daxil olan istifadəçilərə xidmət göstərmək üçün veb-sayt çox güman ki, masaüstü kompüterlər, planşetlər və smartfonlar arasında ardıcıl və istifadəçi dostu təcrübə təmin etmək üçün həssas dizayn prinsiplərindən istifadə edir.
 
 Merriam-Webster veb-saytının yaradılmasında istifadə olunan texnoloji yığının və əsas strukturların xüsusiyyətləri mülkiyyətdir və ictimaiyyətə ətraflı şəkildə açıqlanmır. Şirkətlər çox vaxt rəqabətli səbəblərə görə bu cür məlumatları məxfi saxlayırlar. Ən son və ən dəqiq təfərrüatlar üçün rəsmi Merriam-Webster veb-saytını yoxlamaq və ya təşkilatla birbaşa əlaqə saxlamaq tövsiyə olunur.
+
+## Tureng
+
+<picture>
+  <img alt="Tureng Template" src="https://store-images.microsoft.com/image/apps.49565.9007199266252003.36c18486-f6ef-49a1-bfeb-a31de8608eed.0eff25c3-d741-4871-92b0-90b48f21db67">
+</picture>
+
+Tureng türkcə-ingiliscə onlayn lüğət və tərcümə platformasıdır. Tureng veb-saytının bəzi əsas cəhətləri bunlardır:
+
+- **Onlayn Lüğət və Tərcümə Platforması:** Tureng ilk növbədə onlayn türkcə-ingiliscə lüğət və tərcümə platforması kimi xidmət edir. İstifadəçilər həm türk, həm də ingilis dillərində söz, ifadə və ifadələrə baxa, tərcümələrə, mənalara və nümunə cümlələrə daxil ola bilərlər.
+
+- **Çoxdilli Dəstək:** Tureng türkcə-ingiliscə lüğəti ilə tanınsa da, türk və ingilis dillərindən kənar tərcümələrə ehtiyacı olan istifadəçilər üçün yardım proqramını genişləndirərək müxtəlif digər dillər üçün də tərcümələr təqdim edir.
+
+- **Kontekstual məlumat:** Tureng tez-tez istifadə nümunələri, tələffüz bələdçiləri və əlaqəli ifadələr kimi kontekstual məlumatları təqdim edərək, istifadəçinin axtardıqları söz və ifadələr haqqında anlayışını artırır.
+
+- **Qlobal İstifadə:** Tureng Türkiyədə yerləşir və ilk növbədə türk-ingilis tərcümələri axtaran istifadəçilərə xidmət etsə də, onun onlayn platforması qlobal olaraq əlçatandır. O, türk və ingilis dilləri arasında tərcümə xidmətinə ehtiyacı olan bütün dünyada fərdlər, tələbələr, dil öyrənənlər və peşəkarlar tərəfindən istifadə olunur.
+
+Tureng veb-saytının yaradılmasında istifadə edilən strukturlar, ehtimal ki, aşağıdakı komponentləri əhatə edir:
+
+**1. Veb Tətbiq:** Tureng standart veb brauzerlər vasitəsilə əldə edilə bilən veb əsaslı proqram kimi fəaliyyət göstərir. İstifadəçi interfeysi istifadəçilərə tərcümə üçün söz və ya ifadələr daxil etməyə və müvafiq məlumat əldə etməyə imkan verir.
+
+**2. Verilənlər bazası:** Verilənlər bazası lüğət və tərcümə platforması üçün tələb olunan geniş leksik məlumatların saxlanması və əldə edilməsi üçün əsasdır. Buraya söz mənaları, tərcümələr, nümunə cümlələr və s. haqqında məlumatlar daxildir.
+
+**3. Axtarış Funksionallığı:** Tureng veb-saytı istifadəçilərə tərcümələri və məlumatları tez tapmağa imkan verən güclü axtarış funksiyasını özündə birləşdirir. İstifadəçi təcrübəsini artırmaq üçün avtomatik tamamlama və axtarış təklifləri kimi funksiyalar tətbiq oluna bilər.
+
+**4. Responsiv dizayn:** Müxtəlif cihazlardan sayta daxil olan istifadəçilərə xidmət göstərmək üçün veb-sayt çox güman ki, masaüstü kompüterlər, planşetlər və smartfonlar arasında ardıcıl və istifadəçi dostu təcrübə təmin etmək üçün həssas dizayn prinsiplərindən istifadə edir.
+
+**5. API-lər (Tətbiq Proqramlaşdırma İnterfeysləri):** Tureng tərtibatçılara öz lüğət və tərcümə xidmətlərini üçüncü tərəf proqramlarına inteqrasiya etməyə imkan verən API-lər təklif edə bilər.
+
+Tureng veb-saytının yaradılmasında istifadə olunan texnologiya yığınının və əsas strukturların xüsusiyyətləri mülkiyyətdir və ictimaiyyətə ətraflı şəkildə açıqlanmır. Ən son və ən dəqiq təfərrüatlar üçün Tureng-in rəsmi veb-saytını yoxlamaq və ya təşkilatla birbaşa əlaqə saxlamaq tövsiyə olunur.
