@@ -41,3 +41,30 @@ Apple Music-in inkişafı iOS və macOS proqramları üçün Objective-C və Swi
   <img alt="Spotify Music Template" src="https://s.yimg.com/os/creatr-uploaded-images/2021-03/5b50ca50-8d55-11eb-b5cd-0c33977c6f15">
 </picture>
 
+Spotify istifadəçilərə musiqi, podkastlar və digər audio məzmunun geniş kitabxanasına girişi təmin edən məşhur musiqi axını xidmətidir. Spotify musiqi tətbiqinin bəzi əsas cəhətləri bunlardır:
+
+- **Musiqi axını:** Spotify-ın əsas məqsədi istifadəçilərə musiqini istəyə görə yayımlamağa imkan verməkdir. O, həm məşhur, həm də bir o qədər tanınmayan(niş) sənətkarlar da daxil olmaqla müxtəlif janrlardan mahnıların, albomların və çalğı siyahılarının geniş kataloqunu təqdim edir.
+
+- **Fərdiləşdirilmiş tövsiyələr:** Spotify fərdiləşdirilmiş musiqi tövsiyələri vermək üçün istifadəçilərin dinləmə vərdişlərini təhlil edən alqoritmlərdən istifadə edir. Məsələn, "Weekly discover" pleylisti istifadəçinin dinləmə tarixçəsi əsasında tərtib edilir.
+
+- **Podkastlar və Audio Məzmun:** Musiqiyə əlavə olaraq, Spotify geniş çeşiddə podkastlar və digər audio məzmunlara ev sahibliyi edir. İstifadəçilər müxtəlif mövzularda podkastları kəşf edə və dinləyə bilərlər.
+
+- **Oflayn Dinləmə:** Spotify Premium abunəçilərinin oflayn dinləmək üçün musiqi və podkastları yükləmək imkanı var ki, bu da onlara aktiv internet bağlantısı olmadan məzmundan həzz almağa imkan verir.
+
+- **Sosial Xüsusiyyətlər:** Spotify istifadəçilərə sevimli musiqilərini, çalğı siyahılarını və fəaliyyətlərini dostları ilə paylaşmağa imkan verən sosial funksiyaları özündə birləşdirir. İstifadəçilər bir-birini izləyə və dostlarının nə dinlədiyini görə bilərlər.
+
+- **Qlobal Əlçatma:** Spotify dünyanın bir çox ölkəsində mövcuddur və bu onu musiqi axını üçün qlobal platformaya çevirir. İstifadəçilər smartfonlar, planşetlər, kompüterlər, smart dinamiklər və s. daxil olmaqla müxtəlif cihazlarda xidmətə daxil ola bilərlər.
+
+Spotify-ın yaradılmasında istifadə edilən strukturlar müştəri-server arxitekturasını əhatə edir, burada müştəri istifadəçilərin cihazlarında tətbiqdir və server musiqi kataloqu, istifadəçi hesabları, çalğı siyahıları və s. idarə etmək üçün cavabdehdir. Burada adətən iştirak edən bəzi komponentlər və strukturlar var:
+
+**1. Backend Xidmətləri:** Spotify-ın arxa hissəsinə geniş musiqi kataloqunu, istifadəçi məlumatlarını, çalğı siyahılarını və fərdi tövsiyələr üçün alqoritmləri saxlamaq və idarə etmək üçün serverlər daxildir.
+
+**2. Verilənlər bazaları:** Xidmət böyük həcmdə musiqi metadatasını, istifadəçi məlumatlarını və axın məlumatlarını səmərəli şəkildə saxlamaq və əldə etmək üçün verilənlər bazalarına əsaslanır.
+
+**3. API-lər (Application Programming Interfaces):** API-lər sistemin müxtəlif komponentləri arasında əlaqə yaratmağa imkan verir. Məsələn, musiqi tövsiyələrini əldə etmək, istifadəçi çalğı siyahılarını idarə etmək və audio məzmunu yayımlamaq üçün API-lər mövcuddur.
+
+**4. Məzmun Çatdırılma Şəbəkələri (CDNs):** Qlobal miqyasda sürətli və etibarlı məzmun axını təmin etmək üçün Spotify, ehtimal ki, son istifadəçilərə yaxın məzmunu yaymaq üçün CDN-lərdən istifadə edir.
+
+**5. Çarpaz Platforma İnkişafı:** Spotify IOS, Android, Windows, macOS və veb brauzerlər də daxil olmaqla geniş platformaları dəstəkləyir. Bu, çox güman ki, hər platforma üçün müxtəlif proqramlaşdırma dilləri və çərçivələrdən istifadəni nəzərdə tutur.
+
+Spotify-ın texnoloji yığınının xüsusiyyətləri mülkiyyətə məxsusdur və şirkət onun xidmətində istifadə olunan əsas texnologiyalar haqqında ətraflı məlumat açıqlamayıb.
