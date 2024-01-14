@@ -68,3 +68,35 @@ Spotify-ın yaradılmasında istifadə edilən strukturlar müştəri-server arx
 **5. Çarpaz Platforma İnkişafı:** Spotify IOS, Android, Windows, macOS və veb brauzerlər də daxil olmaqla geniş platformaları dəstəkləyir. Bu, çox güman ki, hər platforma üçün müxtəlif proqramlaşdırma dilləri və çərçivələrdən istifadəni nəzərdə tutur.
 
 Spotify-ın texnoloji yığınının xüsusiyyətləri mülkiyyətə məxsusdur və şirkət onun xidmətində istifadə olunan əsas texnologiyalar haqqında ətraflı məlumat açıqlamayıb.
+
+## Deezer
+
+<picture>
+  <img alt="Deezer Music Template" src="https://www.metrological.com/sites/default/files/styles/ckeditor/public/2022-01/Deezer%27s%20UI.webp?itok=BdFKkLt_">
+</picture>
+
+Deezer istifadəçilərə musiqi parçaları, çalğı siyahıları və podkastlardan ibarət geniş kitabxanaya giriş imkanı verən musiqi axını xidmətidir. Deezer musiqi tətbiqinin bəzi əsas cəhətləri bunlardır:
+
+- **Musiqi axını:** Deezer-in əsas məqsədi istifadəçilərə musiqini istəyə görə yayımlamağa imkan verməkdir. O, müxtəlif janrlarda mahnıların, albomların və çalğı siyahılarının müxtəlif kataloqunu təklif edir.
+
+- **Fərdiləşdirilmiş tövsiyələr:** Digər musiqi axını xidmətləri kimi, Deezer istifadəçilərin dinləmə vərdişlərini təhlil etmək və fərdiləşdirilmiş musiqi tövsiyələri vermək üçün alqoritmlərdən istifadə edir. İstifadəçilər seçilmiş pleylistlər və tövsiyələr vasitəsilə yeni musiqi kəşf edə bilərlər.
+
+- **Podkastlar və Audio Məzmun:** Musiqiyə əlavə olaraq, Deezer müxtəlif podkastları və digər danışıq məzmununu ehtiva edir. İstifadəçilər müxtəlif mövzularda podkastları araşdıra və dinləyə bilərlər.
+
+- **Offline Dinləmə:** Deezer premium abunəçiləri üçün oflayn dinləmə imkanları təklif edir. İstifadəçilər internet bağlantısı olmadan məzmundan həzz almağa imkan verən oflayn oxutmaq üçün sevimli musiqi və podkastlarını yükləyə bilərlər.
+
+- **Qlobal Əlçatma:** Deezer dünyanın bir çox ölkəsində mövcuddur və onu musiqi axını üçün qlobal platformaya çevirir. İstifadəçilər smartfonlar, planşetlər, kompüterlər, smart dinamiklər və s. daxil olmaqla müxtəlif cihazlarda xidmətə daxil ola bilərlər.
+
+Deezer-in yaradılmasında istifadə olunan strukturlar, ehtimal ki, müştəri-server arxitekturasını əhatə edir, burada müştəri istifadəçilərin cihazlarında tətbiqdir və server musiqi kataloqu, istifadəçi hesabları, çalğı siyahıları və s. idarə etmək üçün cavabdehdir. Burada adətən iştirak edən bəzi komponentlər və strukturlar var:
+
+**1. Backend Services:** Deezer-in backend infrastrukturuna musiqi kataloqunu, istifadəçi məlumatlarını, çalğı siyahılarını və fərdi tövsiyələr üçün alqoritmləri idarə edən serverlər daxildir.
+
+**2. Verilənlər bazaları:** Böyük miqdarda musiqi metadatasını, istifadəçi məlumatlarını və axın məlumatlarını səmərəli şəkildə saxlamaq və əldə etmək üçün Deezer, ehtimal ki, verilənlər bazalarını öz infrastrukturunun bir hissəsi kimi istifadə edir.
+
+**3. API-lər (Tətbiq Proqramlaşdırma İnterfeysləri):** Deezer platforması, ehtimal ki, musiqi tövsiyələrini əldə etmək, istifadəçi çalğı siyahılarını idarə etmək və müxtəlif komponentlər arasında əlaqəni asanlaşdırmaq kimi müxtəlif funksiyalar üçün API-lərdən istifadə edir.
+
+**4. Məzmun Çatdırılma Şəbəkələri (CDNs):** Effektiv məzmun çatdırılması və qlobal yayımı təmin etmək üçün Deezer məzmunu son istifadəçilərə yaxınlaşdırmaq üçün CDN-lərdən istifadə edə bilər.
+
+**5. Platformalar Arası İnkişaf:** Deezer iOS, Android, Windows, macOS və veb brauzerlər də daxil olmaqla müxtəlif platformaları dəstəkləyir. Bu, çox güman ki, hər platformaya uyğunlaşdırılmış müxtəlif proqramlaşdırma dillərindən və çərçivələrdən istifadəni nəzərdə tutur.
+
+Deezer-in texnoloji yığınının spesifik təfərrüatları və onun yaradılmasında istifadə edilən əsas strukturlar mülkiyyətə məxsusdur və ictimaiyyətə ətraflı şəkildə açıqlanmır. Şirkətlər adətən rəqabətli səbəblərə görə bu cür məlumatları məxfi saxlayırlar.
