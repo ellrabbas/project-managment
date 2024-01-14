@@ -110,7 +110,7 @@ Deezer-in texnoloji yığınının spesifik təfərrüatları və onun yaradılm
 ## MUBI
 
 <picture>
-  <img alt="Apple Music Template" src="https://cdn.dribbble.com/users/5830047/screenshots/15753480/media/24c5e08f1b766708b3d270dc9dbec64d.png">
+  <img alt="Mubi Template" src="https://cdn.dribbble.com/users/5830047/screenshots/15753480/media/24c5e08f1b766708b3d270dc9dbec64d.png">
 </picture>
 
 Mubi, seçilmiş filmləri seçərək bir çox əsas platformalardan fərqlənən film axını xidmətidir. Mubi film tətbiqinin əsas məqsədi istifadəçilərə müxtəlif janrlardan və ölkələrdən müxtəlif və diqqətlə seçilmiş film seçimi təklif edərək, seçilmiş filmlər kitabxanasına çıxışı təmin etməkdir. Ənənəvi axın xidmətlərindən fərqli olaraq, Mubi-də hər gün yeni bir film əlavə olunan və köhnə başlıqlar fırlanan kataloqu var.
@@ -138,3 +138,35 @@ Mubi film proqramının yaradılmasında istifadə edilən strukturlar, ehtimal 
 **5. Platformalar Arası İnkişaf:** Mubi müxtəlif platformalarda, o cümlədən iOS, Android, veb brauzerlər və smart televizorlarda mövcuddur. Bu, müxtəlif proqramlaşdırma dillərindən və hər bir platformaya uyğunlaşdırılmış çərçivələrdən istifadə edərək platformalararası inkişafı nəzərdə tutur.
 
 Mubinin texnoloji yığınının xüsusiyyətləri və onun yaradılmasında istifadə edilən əsas strukturlar mülkiyyətə məxsusdur və ictimaiyyətə ətraflı şəkildə açıqlanmır. Şirkətlər adətən rəqabətli səbəblərə görə bu cür məlumatları məxfi saxlayırlar.
+
+## IMDb
+
+<picture>
+  <img alt="imdb Template" src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/imdb-homepage/assets/thumbnail/desktop.webp">
+</picture>
+
+Internet Movie Database mənasını verən IMDb, ilk növbədə proqram deyil, filmlər, televiziya proqramları və video oyunlarla bağlı məlumatların hərtərəfli onlayn verilənlər bazasıdır. IMDb aktyor heyəti, süjet xülasələri, istifadəçi rəyləri, reytinqlər və s. haqqında məlumat verir. IMDb-nin müxtəlif cihazlardan əldə edilə bilən veb-saytı olsa da, smartfon və planşetlərdə daha rahat təcrübə üçün mobil proqramlar da təklif edir. IMDb-nin bəzi əsas cəhətləri bunlardır:
+
+- **Film məlumat bazası:** IMDb filmlər, televiziya şouları və video oyunlar haqqında geniş məlumat bazası kimi xidmət edir. İstifadəçilər aktyor heyəti, buraxılış tarixləri, trivia, istifadəçi rəyləri və s. haqqında ətraflı məlumat əldə edə bilərlər.
+
+- **Qlobal Əlçatma:** IMDb qlobal səviyyədə tanınan platformadır və bütün dünyada istifadəçilər üçün əlçatandır. O, geniş çeşiddə film və televiziya məzmunu ilə maraqlanan müxtəlif auditoriyaya müraciət edir.
+
+- **İstifadəçi Rəyləri:** IMDb istifadəçilərə filmləri qiymətləndirməyə və nəzərdən keçirməyə imkan verir, platformada icma tərəfindən idarə olunan aspekt yaradır. Rəylər və reytinqlər kimi istifadəçi tərəfindən yaradılan məzmun müəyyən film və ya televiziya şousu haqqında məlumat axtaranlar üçün əlavə məlumat verir.
+
+- **Şəxsi izləmə siyahıları:** İstifadəçilər gələcəkdə izləmək istədikləri filmləri və televiziya şoularını izləmək üçün şəxsi izləmə siyahıları yarada bilərlər.
+
+- **İndustriya Məlumatı:** IMDb təkcə istehlakçılar üçün deyil, həm də kino və televiziya sənayesindəki peşəkarlar tərəfindən istinad üçün istifadə olunur. Buraya aktyorlar, rejissorlar, prodüserlər və digər industriya işçiləri haqqında məlumatlar daxildir.
+
+IMDb tətbiqi və veb-saytının yaradılmasında istifadə edilən strukturlar tipik veb əsaslı arxitekturanı əhatə edir. Burada iştirak edə biləcək bəzi komponentlər və strukturlar var:
+
+**1. Veb serverləri:** IMDb-nin veb-saytı və tətbiqi istifadəçi sorğularını idarə edən, veb səhifələrə xidmət edən və əsas verilənlər bazası ilə qarşılıqlı əlaqədə olan veb serverlərdə yerləşdirilir.
+
+**2. Verilənlər Bazasının İdarə Edilməsi:** Güclü verilənlər bazası sistemi filmlər, televiziya şouları və əlaqəli məlumatlar haqqında çoxlu məlumatların saxlanması və əldə edilməsi üçün çox vacibdir. IMDb, ehtimal ki, bu strukturlaşdırılmış məlumatları idarə etmək üçün əlaqəli verilənlər bazasından istifadə edir.
+
+**3. Məzmun Çatdırılması:** IMDb, qlobal miqyasda istifadəçilərə sürətli və etibarlı məzmun çatdırılmasını təmin etmək üçün Məzmun Çatdırılma Şəbəkələrini (CDN) əhatə edə bilən şəkillər, videolar və digər media məzmununa xidmət edir.
+
+**4. İstifadəçinin Autentifikasiyası və Avtorizasiyası:** IMDb, ehtimal ki, istifadəçi hesablarını idarə etmək üçün təhlükəsiz autentifikasiya mexanizmlərindən və istifadəçi rəyləri və izləmə siyahıları kimi müəyyən xüsusiyyətlərə girişi idarə etmək üçün icazədən istifadə edir.
+
+**5. Axtarış və Tövsiyə Alqoritmləri:** IMDb istifadəçilərə xüsusi film və ya TV şoularını tapmaqda kömək etmək üçün axtarış alqoritmlərindən istifadə edir. Bundan əlavə, tövsiyə alqoritmləri istifadəçi seçimlərinə və baxış tarixçəsinə əsaslanaraq əlaqəli məzmun təklif edə bilər.
+
+IMDb-nin texnoloji yığınının xüsusiyyətləri və onun yaradılmasında istifadə edilən əsas strukturlar mülkiyyətə məxsusdur və ictimaiyyətə ətraflı şəkildə açıqlanmır. Şirkətlər adətən rəqabətli səbəblərə görə bu cür məlumatları məxfi saxlayırlar.
