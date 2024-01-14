@@ -89,7 +89,7 @@ Deezer istifadəçilərə musiqi parçaları, çalğı siyahıları və podkastl
 
 Deezer-in yaradılmasında istifadə olunan strukturlar, ehtimal ki, müştəri-server arxitekturasını əhatə edir, burada müştəri istifadəçilərin cihazlarında tətbiqdir və server musiqi kataloqu, istifadəçi hesabları, çalğı siyahıları və s. idarə etmək üçün cavabdehdir. Burada adətən iştirak edən bəzi komponentlər və strukturlar var:
 
-**1. Backend Services:** Deezer-in backend infrastrukturuna musiqi kataloqunu, istifadəçi məlumatlarını, çalğı siyahılarını və fərdi tövsiyələr üçün alqoritmləri idarə edən serverlər daxildir.
+**1. Backend Xidmətləri:** Deezer-in backend infrastrukturuna musiqi kataloqunu, istifadəçi məlumatlarını, çalğı siyahılarını və fərdi tövsiyələr üçün alqoritmləri idarə edən serverlər daxildir.
 
 **2. Verilənlər bazaları:** Böyük miqdarda musiqi metadatasını, istifadəçi məlumatlarını və axın məlumatlarını səmərəli şəkildə saxlamaq və əldə etmək üçün Deezer, ehtimal ki, verilənlər bazalarını öz infrastrukturunun bir hissəsi kimi istifadə edir.
 
@@ -127,7 +127,7 @@ Mubi film tətbiqinin bəzi əsas cəhətləri bunlardır:
 
 Mubi film proqramının yaradılmasında istifadə edilən strukturlar, ehtimal ki, digər axın xidmətləri kimi müştəri-server arxitekturasını əhatə edir. Burada iştirak edə biləcək bəzi komponentlər və strukturlar var:
 
-**1. Backend Services:** Mubi-nin arxa hissəsinə film kataloqu, istifadəçi hesabları, abunə təfərrüatları və digər backend funksiyalarını idarə etmək üçün cavabdeh olan serverlər daxildir.
+**1. Backend Xidmətləri:** Mubi-nin arxa hissəsinə film kataloqu, istifadəçi hesabları, abunə təfərrüatları və digər backend funksiyalarını idarə etmək üçün cavabdeh olan serverlər daxildir.
 
 **2. Məzmun Çatdırılması:** Axın xidmətləri güclü məzmun çatdırılması mexanizmlərini tələb edir. Mubi, çox güman ki, filmləri bütün dünyada istifadəçilərə səmərəli şəkildə çatdırmaq üçün Məzmun Çatdırılma Şəbəkələrindən (CDN) istifadə edir.
 
@@ -142,7 +142,7 @@ Mubinin texnoloji yığınının xüsusiyyətləri və onun yaradılmasında ist
 ## IMDb
 
 <picture>
-  <img alt="imdb Template" src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/lab/imdb-homepage/assets/thumbnail/desktop.webp">
+  <img alt="imdb Template" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/IMDb_homepage.png/300px-IMDb_homepage.png">
 </picture>
 
 Internet Movie Database mənasını verən IMDb, ilk növbədə proqram deyil, filmlər, televiziya proqramları və video oyunlarla bağlı məlumatların hərtərəfli onlayn verilənlər bazasıdır. IMDb aktyor heyəti, süjet xülasələri, istifadəçi rəyləri, reytinqlər və s. haqqında məlumat verir. IMDb-nin müxtəlif cihazlardan əldə edilə bilən veb-saytı olsa da, smartfon və planşetlərdə daha rahat təcrübə üçün mobil proqramlar da təklif edir. IMDb-nin bəzi əsas cəhətləri bunlardır:
@@ -170,3 +170,37 @@ IMDb tətbiqi və veb-saytının yaradılmasında istifadə edilən strukturlar 
 **5. Axtarış və Tövsiyə Alqoritmləri:** IMDb istifadəçilərə xüsusi film və ya TV şoularını tapmaqda kömək etmək üçün axtarış alqoritmlərindən istifadə edir. Bundan əlavə, tövsiyə alqoritmləri istifadəçi seçimlərinə və baxış tarixçəsinə əsaslanaraq əlaqəli məzmun təklif edə bilər.
 
 IMDb-nin texnoloji yığınının xüsusiyyətləri və onun yaradılmasında istifadə edilən əsas strukturlar mülkiyyətə məxsusdur və ictimaiyyətə ətraflı şəkildə açıqlanmır. Şirkətlər adətən rəqabətli səbəblərə görə bu cür məlumatları məxfi saxlayırlar.
+
+## Netflix
+
+<picture>
+  <img alt="Netflix Template" src="https://static01.nyt.com/images/2020/02/06/arts/06netflix/06netflix-articleLarge.jpg?quality=75&auto=webp&disable=upscale">
+</picture>
+
+Netflix geniş çeşiddə televiziya şouları, filmlər, sənədli filmlər və orijinal məzmun təklif edən qlobal yayım xidmətidir. Netflix tətbiqinin əsas məqsədi istifadəçilərə müxtəlif cihazlarda video məzmunun tələb olunan axınını təmin etməkdir. Netflix film tətbiqinin bəzi əsas cəhətləri bunlardır:
+
+- **Tələb üzrə Video Axını:** Netflix tətbiqinin əsas məqsədi istifadəçilərə televiziya şoularının, filmlərin və sənədli filmlərin geniş kitabxanasını tələb əsasında yayımlamağa imkan verməkdir. İstifadəçilər ənənəvi kabel və ya peyk televiziyası xidmətlərinə ehtiyac olmadan istənilən vaxt məzmuna baxa bilərlər.
+
+- **Orijinal Məzmun İstehsalı:** Lisenziyalı məzmuna əlavə olaraq, Netflix filmlər, teleseriallar və sənədli filmlər də daxil olmaqla orijinal istehsalı ilə məşhurdur. Platforma abunəçiləri cəlb etmək və saxlamaq üçün eksklüziv məzmunun yaradılmasına böyük sərmayə qoyur.
+
+- **Qlobal Əlçatma:** Netflix qlobal platformadır və dünyanın bir çox ölkəsində mövcuddur. İstifadəçilər smartfonlar, planşetlər, smart televizorlar, oyun konsolları və kompüterlər də daxil olmaqla, geniş çeşidli cihazlarda xidmətə daxil ola bilərlər.
+
+- **İstifadəçi Profilləri və Fərdiləşdirmə:** Netflix fərdi profillər təklif etməklə istifadəçilər üçün fərdi təcrübə təqdim edir. Hər bir profilin öz izləmə siyahısı, baxış tarixçəsi və istifadəçinin baxış vərdişlərinə əsaslanan fərdi tövsiyələr var.
+
+- **Oflayn Baxış:** Netflix abunəçilərə oflayn baxmaq üçün məzmunu yükləməyə imkan verir. Bu funksiya xüsusilə səyahət zamanı aktiv internet bağlantısı olmadan məzmuna baxmaq istəyən istifadəçilər üçün faydalıdır.
+
+Netflix tətbiqinin yaradılmasında istifadə edilən strukturlar yüksək məzmun həcmi, qlobal istifadəçi bazası və problemsiz axın təcrübələrinə ehtiyac səbəbindən inkişaf etmiş və genişləndirilə bilən arxitekturanı əhatə edir. Burada iştirak edə biləcək bəzi komponentlər və strukturlar var:
+
+**1. Məzmun Çatdırılma Şəbəkəsi (CDN):** Netflix çox güman ki, məzmunu qlobal miqyasda bir çox server arasında yaymaq üçün CDN-lərdən istifadə edir. Bu, aşağı gecikmə axını və istifadəçilərə səmərəli məzmun çatdırılmasını təmin edir.
+
+**2. Mikroservis Arxiktekturası:** Netflix proqramın müxtəlif komponentlərinin müstəqil xidmətlərə bölündüyü mikroservis arxitekturasından istifadə edir. Bu, elastikliyə, genişlənməyə və asan mühafizəyə imkan verir.
+
+**3. Backend Xidmətləri:** Netflix-in arxa hissəsinə istifadəçi hesablarını, abunə təfərrüatlarını, məzmun metadatasını, tövsiyələri və s. idarə etmək üçün müxtəlif xidmətlər daxildir.
+
+**4. Geniş Məlumat və Avtomatlaşdırılmış Öyrənmə:** Netflix istifadəçi davranışını və seçimlərini təhlil etmək üçün böyük verilənlər analitikası və avtomatlaşdırılmış öyrənmə alqoritmlərindən istifadə edir. Bu məlumat fərdi tövsiyələr vermək və ümumi istifadəçi təcrübəsini yaxşılaşdırmaq üçün istifadə olunur.
+
+**5. Təhlükəsizlik tədbirləri:** İstifadəçi məlumatlarının və abunə təfərrüatlarının həssas xarakterini nəzərə alaraq, Netflix şifrələmə protokolları və təhlükəsiz istifadəçi autentifikasiyası daxil olmaqla möhkəm təhlükəsizlik tədbirləri həyata keçirəcək.
+
+**6. Platformalar Arası İnkişaf:** Netflix iOS, Android, veb brauzerlər, smart televizorlar, oyun konsolları və s. daxil olmaqla, geniş platformaları dəstəkləyir. Çarpaz platforma inkişafı müxtəlif cihazlarda ardıcıl təcrübə təmin edir.
+
+Netflix-in texnoloji yığınının xüsusiyyətləri və onun yaradılmasında istifadə olunan əsas strukturlar mülkiyyətə məxsusdur və ictimaiyyətə ətraflı şəkildə açıqlanmır. Şirkətlər adətən rəqabətli səbəblərə görə bu cür məlumatları məxfi saxlayırlar.
