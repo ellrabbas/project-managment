@@ -305,3 +305,12 @@ Tureng veb-saytının yaradılmasında istifadə edilən strukturlar, ehtimal ki
 **5. API-lər (Tətbiq Proqramlaşdırma İnterfeysləri):** Tureng tərtibatçılara öz lüğət və tərcümə xidmətlərini üçüncü tərəf proqramlarına inteqrasiya etməyə imkan verən API-lər təklif edə bilər.
 
 Tureng veb-saytının yaradılmasında istifadə olunan texnologiya yığınının və əsas strukturların xüsusiyyətləri mülkiyyətdir və ictimaiyyətə ətraflı şəkildə açıqlanmır. Ən son və ən dəqiq təfərrüatlar üçün Tureng-in rəsmi veb-saytını yoxlamaq və ya təşkilatla birbaşa əlaqə saxlamaq tövsiyə olunur.
+
+<h1>Hansı kateqoriyada proyekt təkmilləşdirmək istəyirsiniz?</h1>
+Musiqi və film kateqoriyasında, çünki bunun da yuxarıda göstərilən platformalar kimi insanların diqqətini çəkəcəyini düşünürəm.
+
+<h1>Proyektinizə hansı strukturları və quruluşları daxil edəcəksiniz?</h1>
+
+Bunu hazırladığım figma üzərində göstərmək istəyirəm.
+
+https://www.figma.com/file/F2vVZltJdYvcFqM8HGEChJ/final-project?type=design&t=7yFsAs2fZI6a9rxD-6
